@@ -1,0 +1,11 @@
+.jatekter {
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    grid-template-rows: 50px 50px 50px;
+}
+.elem {
+    border:1px solid gray;
+    border-radius:5px;
+    text-align:center;
+    font-size:20px;
+}
